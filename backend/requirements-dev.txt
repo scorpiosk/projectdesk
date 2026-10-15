@@ -1,0 +1,4 @@
+# Author: Sandip Kumar <scorpiosk@gmail.com>; SPDX-License-Identifier: MIT
+-r requirements.txt
+httpx==0.28.1
+pytest==9.1.1

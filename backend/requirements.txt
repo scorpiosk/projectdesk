@@ -1,0 +1,6 @@
+# Author: Sandip Kumar <scorpiosk@gmail.com>; SPDX-License-Identifier: MIT
+# Runtime verified for the public release; Starlette is pinned for reviewed advisories.
+fastapi==0.143.2
+starlette==1.8.0
+uvicorn==0.34.0
+pydantic==2.14.1

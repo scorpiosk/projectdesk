@@ -1,0 +1,18 @@
+# Author: Sandip Kumar <scorpiosk@gmail.com>; SPDX-License-Identifier: MIT
+.venv/
+.publication/
+.env
+.env.*
+!.env.example
+data/
+*.db
+*.db-*
+*.sqlite*
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+dist/
+coverage/
+.DS_Store
